@@ -60,6 +60,7 @@ def interpret_scores(breadth_score, depth_score):
     return breadth_interpretation, depth_interpretation, overall_interpretation
 
 st.title("T-Shaped Self-Assessment")
+st.write(":blue_heart: **by JTIAPBN.Ai**")
 
 questions = [
     "I communicate effectively with people from different departments.",
